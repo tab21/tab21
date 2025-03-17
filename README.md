@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 <p width=50%>
 My name is **Tabassum Fatima** 🐿️. I am a *Electrical Engineering* student living in India. I am a web3 enthusiast constantly growing love for the upcoming technology. Besides that I also love drawing/painting and reading novels. The novels that I love are Harry Potter & Vampire Academy series. 
 
-- 🔭 I’m currently working on Opensource, Web3.
-- 🌱 I’m currently learning Ethereum, ether.js.
+- 🔭 I’m currently working on Opensource.
+- 🌱 I’m currently learning Security Funcdamentals.
 - 📫 How to reach me: fatimatabassum2104@gmail.com
-- 😄 Pronouns: She / Her
 - ⚡ Fun fact: I think I am generally lucky but use that luck on useless things.
 </p>
 
