@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 My name is **Tabassum Fatima** 🐿️. I am a *Electrical Engineering* student living in India. I am a web3 enthusiast constantly growing love for the upcoming technology. Besides that I also love drawing/painting and reading novels. The novels that I love are Harry Potter & Vampire Academy series. 
 
 - 🔭 I’m currently working on Opensource.
-- 🌱 I’m currently learning Security Funcdamentals.
+- 🌱 I’m currently learning Security Fundamentals.
 - 📫 How to reach me: fatimatabassum2104@gmail.com
 - ⚡ Fun fact: I think I am generally lucky but use that luck on useless things.
 </p>
